@@ -1,0 +1,13 @@
+email:
+pass:
+admin state:
+(if admin statuse is == false)
+student name:
+student id:
+current GPA:
+current credit hours done:
+year at:
+semester at:
+name of file containing courses done:
+name of file containing courses enrolled:
+(if admin stsues is == true)

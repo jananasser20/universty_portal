@@ -1,0 +1,57 @@
+D:\Visual Studio\CS\x64\Debug\CS.vcxproj.AssemblyReference.cache
+D:\Visual Studio\CS\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\CS\x64\Debug\CS.MyForm.resources
+D:\Visual Studio\CS\x64\Debug\CS.vcxproj.GenerateResource.cache
+D:\Visual Studio\CS\x64\Debug\CS.exe
+E:\visual studio 2022\CS\x64\Debug\CS.vcxproj.AssemblyReference.cache
+E:\visual studio 2022\CS\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+E:\visual studio 2022\CS\x64\Debug\CS.MyForm.resources
+E:\visual studio 2022\CS\x64\Debug\CS.vcxproj.GenerateResource.cache
+E:\visual studio 2022\CS\x64\Debug\CS.exe
+D:\work akram\sec semester\C++\Main Project\CS-Jana\CS-jana\x64\Debug\CS.vcxproj.AssemblyReference.cache
+D:\work akram\sec semester\C++\Main Project\CS-Jana\CS-jana\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+D:\work akram\sec semester\C++\Main Project\CS-Jana\CS-jana\x64\Debug\CS.MyForm.resources
+D:\work akram\sec semester\C++\Main Project\CS-Jana\CS-jana\x64\Debug\CS.vcxproj.GenerateResource.cache
+D:\work akram\sec semester\C++\Main Project\CS-Jana\CS-jana\x64\Debug\CS.exe
+D:\Desktop\CS-akram\x64\Debug\CS.vcxproj.AssemblyReference.cache
+D:\Desktop\CS-akram\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+D:\Desktop\CS-akram\x64\Debug\CS.MyForm.resources
+D:\Desktop\CS-akram\x64\Debug\CS.vcxproj.GenerateResource.cache
+D:\Desktop\CS-akram\x64\Debug\CS.exe
+D:\Desktop\CS-akram\x64\Debug\CS.login_form.resources
+D:\Desktop\CS-akram\x64\Debug\CS.MyForm_Admin.resources
+C:\Users\pc\Desktop\CS-akram\x64\Debug\CS.vcxproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CS-akram\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\CS-akram\x64\Debug\CS.login_form.resources
+C:\Users\pc\Desktop\CS-akram\x64\Debug\CS.MyForm.resources
+C:\Users\pc\Desktop\CS-akram\x64\Debug\CS.MyForm_Admin.resources
+C:\Users\pc\Desktop\CS-akram\x64\Debug\CS.vcxproj.GenerateResource.cache
+C:\Users\pc\Desktop\CS-akram\x64\Debug\CS.exe
+C:\Users\pc\Desktop\CS-kimo\x64\Debug\CS.vcxproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CS-kimo\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\CS-kimo\x64\Debug\CS.login_form.resources
+C:\Users\pc\Desktop\CS-kimo\x64\Debug\CS.MyForm.resources
+C:\Users\pc\Desktop\CS-kimo\x64\Debug\CS.MyForm_Admin.resources
+C:\Users\pc\Desktop\CS-kimo\x64\Debug\CS.vcxproj.GenerateResource.cache
+C:\Users\pc\Desktop\CS-kimo\x64\Debug\CS.exe
+C:\Users\20109\Desktop\CS-kimo\x64\Debug\CS.vcxproj.AssemblyReference.cache
+C:\Users\20109\Desktop\CS-kimo\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\20109\Desktop\CS-kimo\x64\Debug\CS.login_form.resources
+C:\Users\20109\Desktop\CS-kimo\x64\Debug\CS.MyForm.resources
+C:\Users\20109\Desktop\CS-kimo\x64\Debug\CS.MyForm_Admin.resources
+C:\Users\20109\Desktop\CS-kimo\x64\Debug\CS.vcxproj.GenerateResource.cache
+C:\Users\20109\Desktop\CS-kimo\x64\Debug\CS.exe
+C:\Users\pc\Desktop\CS-kimo2\x64\Debug\CS.vcxproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CS-kimo2\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\CS-kimo2\x64\Debug\CS.login_form.resources
+C:\Users\pc\Desktop\CS-kimo2\x64\Debug\CS.MyForm.resources
+C:\Users\pc\Desktop\CS-kimo2\x64\Debug\CS.MyForm_Admin.resources
+C:\Users\pc\Desktop\CS-kimo2\x64\Debug\CS.vcxproj.GenerateResource.cache
+C:\Users\pc\Desktop\CS-kimo2\x64\Debug\CS.exe
+C:\Users\20109\Desktop\CS-kimo2\x64\Debug\CS.vcxproj.AssemblyReference.cache
+C:\Users\20109\Desktop\CS-kimo2\x64\Debug\CS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\20109\Desktop\CS-kimo2\x64\Debug\CS.login_form.resources
+C:\Users\20109\Desktop\CS-kimo2\x64\Debug\CS.MyForm.resources
+C:\Users\20109\Desktop\CS-kimo2\x64\Debug\CS.MyForm_Admin.resources
+C:\Users\20109\Desktop\CS-kimo2\x64\Debug\CS.vcxproj.GenerateResource.cache
+C:\Users\20109\Desktop\CS-kimo2\x64\Debug\CS.exe

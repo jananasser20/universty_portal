@@ -1,0 +1,11 @@
+samer
+samer
+false
+samer
+01
+2.97
+0
+1
+2
+student1_courses_done
+student1_courses_enrolled
